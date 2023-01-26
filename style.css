@@ -11,12 +11,10 @@ body {
 }
 
 .lado {
-    color: white;
     display: flex;
+    flex-direction: column;
+    color: white;
     width: 30%;
-    padding: 20px;
-    text-align: center;
-    align-items: center;
     font-size: 30px;
 }
 
